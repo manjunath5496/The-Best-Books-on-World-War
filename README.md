@@ -39,9 +39,23 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(23).pdf" style="text-decoration:none;"> War Summits: The Meetings That Shaped World War II and the Postwar World</a></b></li>
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(24).pdf" style="text-decoration:none;"> Wars That Changed History</a></b></li>  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(25).pdf" style="text-decoration:none;"> Top Secret Files: World War II </a></b></li>
+                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(26).pdf" style="text-decoration:none;"> World India II in the Pacific </a></b></li>
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(27).pdf" style="text-decoration:none;"> The A to Z of U.S. Diplomacy From World War I through World War II</a></b></li>  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(28).pdf" style="text-decoration:none;"> The Path to War: How the First World War Created Modern America </a></b></li>
+                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(29).pdf" style="text-decoration:none;"> When Books Went to War: The Stories That Helped Us Win World War II </a></b></li>
+ 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(30).pdf" style="text-decoration:none;"> The Pacific War Papers: Japanese Documents of World War II </a></b></li>
+                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(31).pdf" style="text-decoration:none;"> Threshold of War: Franklin D. Roosevelt and American Entry into World War II </a></b></li>
  
 
 </ul>
