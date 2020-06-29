@@ -71,8 +71,74 @@
 </table>
 </br>
 
-
-
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th><a title="Timeline of World War II" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II">Timelines</a>&nbsp;of&nbsp;<a class="mw-selflink selflink">World War II</a></th>
+</tr>
+<tr>
+<th style="text-align: center;">Chronological</th>
+</tr>
+<tr>
+<td><a title="Timeline of events preceding World War II" href="https://en.wikipedia.org/wiki/Timeline_of_events_preceding_World_War_II">Prelude</a>
+<div class="hlist hlist-separated">
+<ul>
+<li>(<a title="Events preceding World War II in Asia" href="https://en.wikipedia.org/wiki/Events_preceding_World_War_II_in_Asia">in Asia</a></li>
+<li><a title="Events preceding World War II in Europe" href="https://en.wikipedia.org/wiki/Events_preceding_World_War_II_in_Europe">in Europe</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Timeline of World War II (1939)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1939)">1939</a></li>
+<li><a title="Timeline of World War II (1940)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1940)">1940</a></li>
+<li><a title="Timeline of World War II (1941)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1941)">1941</a></li>
+<li><a title="Timeline of World War II (1942)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1942)">1942</a></li>
+<li><br /><a title="Timeline of World War II (1943)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1943)">1943</a></li>
+<li><a title="Timeline of World War II (1944)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1944)">1944</a></li>
+<li><a title="Timeline of World War II (1945&ndash;1991)" href="https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1945%E2%80%931991)">1945 onwards</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="text-align: left;">By topic</th>
+</tr>
+<tr>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Diplomatic history of World War II" href="https://en.wikipedia.org/wiki/Diplomatic_history_of_World_War_II">Diplomacy</a></li>
+<li><a title="Declarations of war during World War II" href="https://en.wikipedia.org/wiki/Declarations_of_war_during_World_War_II">Declarations of war</a></li>
+<li>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="List of military engagements of World War II" href="https://en.wikipedia.org/wiki/List_of_military_engagements_of_World_War_II#Battles">Engagements</a></li>
+<li><a title="List of World War II military operations" href="https://en.wikipedia.org/wiki/List_of_World_War_II_military_operations">Operations</a></li>
+</ul>
+</div>
+</li>
+<li><a title="List of air operations during the Battle of Europe" href="https://en.wikipedia.org/wiki/List_of_air_operations_during_the_Battle_of_Europe">Battle of Europe air operations</a></li>
+<li>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Timeline of the Eastern Front of World War II" href="https://en.wikipedia.org/wiki/Timeline_of_the_Eastern_Front_of_World_War_II">Eastern Front</a></li>
+<li><a title="Timeline of the Manhattan Project" href="https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project">Manhattan Project</a></li>
+</ul>
+</div>
+</li>
+<li><a title="Timeline of the United Kingdom home front during World War II" href="https://en.wikipedia.org/wiki/Timeline_of_the_United_Kingdom_home_front_during_World_War_II">United Kingdom home front</a></li>
+<li><a title="Timeline of the surrender of Axis forces at the end of World War II" href="https://en.wikipedia.org/wiki/Timeline_of_the_surrender_of_Axis_forces_at_the_end_of_World_War_II">Surrender of the Axis armies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 <h2> Books </h2>
 
