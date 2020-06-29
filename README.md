@@ -1,3 +1,81 @@
+<table class="vertical-navbox nowraplinks mw-collapsible mw-made-collapsible">
+<tbody>
+<tr>
+<th class="navbox-title">Events leading to&nbsp;<a class="mw-selflink selflink">World War I</a></th>
+</tr>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td><a title="Congress of Berlin" href="https://en.wikipedia.org/wiki/Congress_of_Berlin">Congress of Berlin</a></td>
+<td>1878</td>
+</tr>
+<tr>
+<td><a title="Triple Alliance (1882)" href="https://en.wikipedia.org/wiki/Triple_Alliance_(1882)">Triple Alliance</a></td>
+<td>1882</td>
+</tr>
+<tr>
+<td><a title="Franco-Russian Alliance" href="https://en.wikipedia.org/wiki/Franco-Russian_Alliance">Franco-Russian Alliance</a></td>
+<td>1894</td>
+</tr>
+<tr>
+<td><a title="Anglo-German naval arms race" href="https://en.wikipedia.org/wiki/Anglo-German_naval_arms_race">Anglo-German naval arms race</a></td>
+<td>1898&ndash;1912</td>
+</tr>
+<tr>
+<td><a title="Entente Cordiale" href="https://en.wikipedia.org/wiki/Entente_Cordiale">Entente Cordiale</a></td>
+<td>1904</td>
+</tr>
+<tr>
+<td><a title="Russo-Japanese War" href="https://en.wikipedia.org/wiki/Russo-Japanese_War">Russo-Japanese War</a></td>
+<td>1904&ndash;1905</td>
+</tr>
+<tr>
+<td><a title="First Moroccan Crisis" href="https://en.wikipedia.org/wiki/First_Moroccan_Crisis">First Moroccan Crisis</a></td>
+<td>1905&ndash;1906</td>
+</tr>
+<tr>
+<td><a title="Anglo-Russian Convention" href="https://en.wikipedia.org/wiki/Anglo-Russian_Convention">Anglo-Russian Entente</a></td>
+<td>1907</td>
+</tr>
+<tr>
+<td><a title="Bosnian Crisis" href="https://en.wikipedia.org/wiki/Bosnian_Crisis">Bosnian Crisis</a></td>
+<td>1908&ndash;1909</td>
+</tr>
+<tr>
+<td><a title="Agadir Crisis" href="https://en.wikipedia.org/wiki/Agadir_Crisis">Agadir Crisis</a></td>
+<td>1911</td>
+</tr>
+<tr>
+<td><a title="Italo-Turkish War" href="https://en.wikipedia.org/wiki/Italo-Turkish_War">Italo-Turkish War</a></td>
+<td>1911&ndash;1912</td>
+</tr>
+<tr>
+<td><a title="Balkan Wars" href="https://en.wikipedia.org/wiki/Balkan_Wars">Balkan Wars</a></td>
+<td>1912&ndash;1913</td>
+</tr>
+<tr>
+<td><a title="Assassination of Archduke Franz Ferdinand" href="https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand">Assassination of Franz Ferdinand</a></td>
+<td>1914</td>
+</tr>
+<tr>
+<td><a title="July Crisis" href="https://en.wikipedia.org/wiki/July_Crisis">July Crisis</a></td>
+<td>1914</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+<h2> Books </h2>
+
 <ul>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-World-War/blob/master/ww(1).pdf" style="text-decoration:none;">All Hell Let Loose: The World at War 1939 – 45</a></li>
   
